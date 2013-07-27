@@ -1,0 +1,2125 @@
+---
+ar:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+au:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+at:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+be:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+br:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+bg:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ca:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+cl:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+cn:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+co:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+cr:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+hr:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+cz:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+dk:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ec:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+eg:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ee:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+fi:
+  '1.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+fr:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+de:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+gr:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+gt:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+hk:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+hu:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+in:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ie:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+il:
+  '1.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+it:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+jp:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+lu:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+mk:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+my:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+mt:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+mx:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+nl:
+  '1.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+nz:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+'no':
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+pe:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ph:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+pl:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+pt:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+pr:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ro:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+rs:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+sg:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+si:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+za:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+kr:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+es:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+se:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ch:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+tw:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+th:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+uk:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+scotland:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+ug:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+us:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+vn:
+  '1.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '2.5':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false
+unported:
+  '1.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '2.5':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '3.0':
+    by: true
+    by_sa: true
+    by_nd: true
+    by_nc: true
+    by_nc_sa: true
+    by_nc_nd: true
+  '4.0':
+    by: false
+    by_sa: false
+    by_nd: false
+    by_nc: false
+    by_nc_sa: false
+    by_nc_nd: false

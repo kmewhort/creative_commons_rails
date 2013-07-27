@@ -1,0 +1,252 @@
+---
+es:
+  license_notice: Este obra está bajo una %{license_title}.
+  license_title: Licencia Creative Commons %{license_type}
+  license_type_by: Atribución %{version} %{jurisdiction}
+  license_type_by_sa: Atribución-CompartirIgual %{version} %{jurisdiction}
+  license_type_by_nd: Atribución-SinDerivadas %{version} %{jurisdiction}
+  license_type_by_nc: Atribución-NoComercial %{version} %{jurisdiction}
+  license_type_by_nc_sa: Atribución-NoComercial-CompartirIgual %{version} %{jurisdiction}
+  license_type_by_nc_nd: Atribución-NoComercial-SinDerivadas %{version} %{jurisdiction}
+es_ES:
+  license_notice: Este obra está bajo una %{license_title}.
+  license_title: licencia de Creative Commons %{license_type}
+  license_type_by: Reconocimiento %{version} %{jurisdiction}
+  license_type_by_sa: Reconocimiento-CompartirIgual %{version} %{jurisdiction}
+  license_type_by_nd: Reconocimiento-SinObraDerivada %{version} %{jurisdiction}
+  license_type_by_nc: Reconocimiento-NoComercial %{version} %{jurisdiction}
+  license_type_by_nc_sa: Reconocimiento-NoComercial-CompartirIgual %{version} %{jurisdiction}
+  license_type_by_nc_nd: Reconocimiento-NoComercial-SinObraDerivada %{version} %{jurisdiction}
+ca:
+  license_notice: Aquesta obra està subjecta a una llicència de %{license_title}
+  license_title: ! '%{license_type} de Creative Commons'
+  license_type_by: Reconeixement %{version} %{jurisdiction}
+  license_type_by_sa: Reconeixement-CompartirIgual %{version} %{jurisdiction}
+  license_type_by_nd: Reconeixement-SenseObraDerivada %{version} %{jurisdiction}
+  license_type_by_nc: Reconeixement-NoComercial %{version} %{jurisdiction}
+  license_type_by_nc_sa: Reconeixement-NoComercial-CompartirIgual %{version} %{jurisdiction}
+  license_type_by_nc_nd: Reconeixement-NoComercial-SenseObraDerivada %{version} %{jurisdiction}
+de:
+  license_notice: Dieses Werk bzw. Inhalt steht unter einer %{license_title}.
+  license_title: Creative Commons %{license_type} Lizenz
+  license_type_by: Namensnennung %{version} %{jurisdiction}
+  license_type_by_sa: Namensnennung - Weitergabe unter gleichen Bedingungen %{version}
+    %{jurisdiction}
+  license_type_by_nd: Namensnennung-Keine Bearbeitung %{version} %{jurisdiction}
+  license_type_by_nc: Namensnennung-Nicht-kommerziell %{version} %{jurisdiction}
+  license_type_by_nc_sa: Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen
+    Bedingungen %{version} %{jurisdiction}
+  license_type_by_nc_nd: Namensnennung-NichtKommerziell-KeineBearbeitung %{version}
+    %{jurisdiction}
+en:
+  license_notice: This work is licensed under a %{license_title}.
+  license_title: Creative Commons %{license_type} License
+  license_type_by: Attribution %{version} %{jurisdiction}
+  license_type_by_sa: Attribution-ShareAlike %{version} %{jurisdiction}
+  license_type_by_nd: Attribution-NoDerivs %{version} %{jurisdiction}
+  license_type_by_nc: Attribution-NonCommercial %{version} %{jurisdiction}
+  license_type_by_nc_sa: Attribution-NonCommercial-ShareAlike %{version} %{jurisdiction}
+  license_type_by_nc_nd: Attribution-NonCommercial-NoDerivs %{version} %{jurisdiction}
+eo:
+  license_notice: Ĉi tiu verko estas disponebla laŭ la permesilo %{license_title}.
+  license_title: Krea Komunaĵo %{license_type}
+  license_type_by: Atribuite %{version} %{jurisdiction}
+  license_type_by_sa: Atribuite-Samkondiĉe %{version} %{jurisdiction}
+  license_type_by_nd: Atribuite-Nemodifite %{version} %{jurisdiction}
+  license_type_by_nc: Atribuite-Nekomerce %{version} %{jurisdiction}
+  license_type_by_nc_sa: Atribuite-Nekomerce-Samkondiĉe %{version} %{jurisdiction}
+  license_type_by_nc_nd: Atribuite-Nekomerce-Nemodifite %{version} %{jurisdiction}
+fr:
+  license_notice: Ce(tte) œuvre est mise à disposition selon les termes de la %{license_title}.
+  license_title: Licence Creative Commons %{license_type}
+  license_type_by: Attribution %{version} %{jurisdiction}
+  license_type_by_sa: Attribution -  Partage dans les Mêmes Conditions %{version}
+    %{jurisdiction}
+  license_type_by_nd: Attribution - Pas de Modification %{version} %{jurisdiction}
+  license_type_by_nc: Attribution - Pas d’Utilisation Commerciale %{version} %{jurisdiction}
+  license_type_by_nc_sa: Attribution - Pas d’Utilisation Commerciale - Partage dans
+    les Mêmes Conditions %{version} %{jurisdiction}
+  license_type_by_nc_nd: Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+    %{version} %{jurisdiction}
+hr:
+  license_notice: Ovo djelo je dano na korištenje pod licencom %{license_title}.
+  license_title: Creative Commons %{license_type}
+  license_type_by: Imenovanje %{version} %{jurisdiction}
+  license_type_by_sa: Imenovanje-Dijeli pod istim uvjetima %{version} %{jurisdiction}
+  license_type_by_nd: Imenovanje-Bez prerada %{version} %{jurisdiction}
+  license_type_by_nc: Imenovanje-Nekomercijalno %{version} %{jurisdiction}
+  license_type_by_nc_sa: Imenovanje-Nekomercijalno-Dijeli pod istim uvjetima %{version}
+    %{jurisdiction}
+  license_type_by_nc_nd: Imenovanje-Nekomercijalno-Bez prerada %{version} %{jurisdiction}
+id:
+  license_notice: ciptaan disebarluaskan di bawah %{license_title}.
+  license_title: Lisensi Creative Commons %{license_type}
+  license_type_by: Atribusi %{version} %{jurisdiction}
+  license_type_by_sa: Atribusi-BerbagiSerupa %{version} %{jurisdiction}
+  license_type_by_nd: Atribusi-TanpaTurunan %{version} %{jurisdiction}
+  license_type_by_nc: Attribusi-NonKomersial %{version} %{jurisdiction}
+  license_type_by_nc_sa: Atribusi-NonKomersial-BerbagiSerupa %{version} %{jurisdiction}
+  license_type_by_nc_nd: Atribusi-NonKomersial-TanpaTurunan %{version} %{jurisdiction}
+it:
+  license_notice: Quest'opera è distribuita con Licenza %{license_title}.
+  license_title: Creative Commons %{license_type}
+  license_type_by: Attribuzione %{version} %{jurisdiction}
+  license_type_by_sa: Attribuzione - Condividi allo stesso modo %{version} %{jurisdiction}
+  license_type_by_nd: Attribuzione - Non opere derivate %{version} %{jurisdiction}
+  license_type_by_nc: Attribuzione - Non commerciale %{version} %{jurisdiction}
+  license_type_by_nc_sa: Attribuzione - Non commerciale - Condividi allo stesso modo
+    %{version} %{jurisdiction}
+  license_type_by_nc_nd: Attribuzione - Non commerciale - Non opere derivate %{version}
+    %{jurisdiction}
+hu:
+  license_notice: Ez a Mű a %{license_title}.
+  license_title: Creative Commons %{license_type} Licenc feltételeinek megfelelően
+    szabadon felhasználható
+  license_type_by: Nevezd meg! %{version} %{jurisdiction}
+  license_type_by_sa: Nevezd meg! - Így add tovább! %{version} %{jurisdiction}
+  license_type_by_nd: Nevezd meg! - Ne változtasd! %{version} %{jurisdiction}
+  license_type_by_nc: Nevezd meg! - Ne add el! %{version} %{jurisdiction}
+  license_type_by_nc_sa: Nevezd meg! - Ne add el! - Így add tovább! %{version} %{jurisdiction}
+  license_type_by_nc_nd: Nevezd meg! - Ne add el! - Ne változtasd! %{version} %{jurisdiction}
+nl:
+  license_notice: Dit werk is gelicenseerd onder een %{license_title}
+  license_title: Creative Commons %{license_type} licentie
+  license_type_by: Naamsvermelding %{version} %{jurisdiction}
+  license_type_by_sa: Naamsvermelding-GelijkDelen %{version} %{jurisdiction}
+  license_type_by_nd: Naamsvermelding-GeenAfgeleideWerken %{version} %{jurisdiction}
+  license_type_by_nc: Naamsvermelding-NietCommercieel %{version} %{jurisdiction}
+  license_type_by_nc_sa: Naamsvermelding-NietCommercieel-GelijkDelen %{version} %{jurisdiction}
+  license_type_by_nc_nd: Naamsvermelding-NietCommercieel-GeenAfgeleideWerken %{version}
+    %{jurisdiction}
+"no":
+  license_notice: Dette verk er lisensieret under en %{license_title}.
+  license_title: Creative Commons %{license_type} lisens
+  license_type_by: Navngivelse %{version} %{jurisdiction}
+  license_type_by_sa: Navngivelse-DelPåSammeVilkår %{version} %{jurisdiction}
+  license_type_by_nd: Navngivelse-IngenBearbeidelse %{version} %{jurisdiction}
+  license_type_by_nc: Navngivelse-Ikkekommersiell %{version} %{jurisdiction}
+  license_type_by_nc_sa: Navngivelse-Ikkekommersiell-DelPåSammeVilkår %{version}
+    %{jurisdiction}
+  license_type_by_nc_nd: Navngivelse-Ikkekommersiell-IngenBearbeidelse %{version}
+    %{jurisdiction}
+pl:
+  license_notice: Ten utwór jest dostępny na %{license_title}.
+  license_title: licencji Creative Commons %{license_type}
+  license_type_by: Uznanie autorstwa %{version} %{jurisdiction}
+  license_type_by_sa: Uznanie autorstwa-Na tych samych warunkach %{version} %{jurisdiction}
+  license_type_by_nd: Uznanie autorstwa-Bez utworów zależnych %{version} %{jurisdiction}
+  license_type_by_nc: Uznanie autorstwa-Użycie niekomercyjne %{version} %{jurisdiction}
+  license_type_by_nc_sa: Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach
+    %{version} %{jurisdiction}
+  license_type_by_nc_nd: Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych
+    %{version} %{jurisdiction}
+pt:
+  license_notice: Este trabalho foi licenciado com uma Licença %{license_title}.
+  license_title: Creative Commons - %{license_type}
+  license_type_by: Atribuição  %{version} %{jurisdiction}
+  license_type_by_sa: Atribuição-CompartilhaIgual %{version} %{jurisdiction}
+  license_type_by_nd: Atribuição-SemDerivados %{version} %{jurisdiction}
+  license_type_by_nc: Atribuição-NãoComercial %{version} %{jurisdiction}
+  license_type_by_nc_sa: Atribuição-NãoComercial-CompartilhaIgual %{version} %{jurisdiction}
+  license_type_by_nc_nd: Atribuição-NãoComercial-SemDerivados %{version} %{jurisdiction}
+pt_BR:
+  license_notice: Este obra foi licenciado sob uma Licença %{license_title}.
+  license_title: Creative Commons %{license_type}
+  license_type_by: Atribuição %{version} %{jurisdiction}
+  license_type_by_sa: Atribuição-CompartilhaIgual %{version} %{jurisdiction}
+  license_type_by_nd: Atribuição-SemDerivados %{version} %{jurisdiction}
+  license_type_by_nc: Atribuição-NãoComercial %{version} %{jurisdiction}
+  license_type_by_nc_sa: Atribuição-NãoComercial-CompartilhaIgual %{version} %{jurisdiction}
+  license_type_by_nc_nd: Atribuição-NãoComercial-SemDerivados %{version} %{jurisdiction}
+fi:
+  license_notice: Tämän teos teoksen käyttöoikeutta koskee %{license_title}.
+  license_title: Creative Commons %{license_type} -lisenssi
+  license_type_by: Nimeä %{version} %{jurisdiction}
+  license_type_by_sa: Nimeä-JaaSamoin %{version} %{jurisdiction}
+  license_type_by_nd: Nimeä-Ei muutoksia %{version} %{jurisdiction}
+  license_type_by_nc: Nimeä-Epäkaupallinen %{version} %{jurisdiction}
+  license_type_by_nc_sa: Nimeä-Epäkaupallinen-JaaSamoin %{version} %{jurisdiction}
+  license_type_by_nc_nd: Nimeä-Ei muutoksia-Epäkaupallinen %{version} %{jurisdiction}
+sv:
+  license_notice: Detta verk är licensierat under en %{license_title}.
+  license_title: Creative Commons %{license_type} Licens
+  license_type_by: Erkännande %{version} %{jurisdiction}
+  license_type_by_sa: Erkännande-DelaLika %{version} %{jurisdiction}
+  license_type_by_nd: Erkännande-IngaBearbetningar %{version} %{jurisdiction}
+  license_type_by_nc: Erkännande-IckeKommersiell %{version} %{jurisdiction}
+  license_type_by_nc_sa: Erkännande-IckeKommersiell-DelaLika %{version} %{jurisdiction}
+  license_type_by_nc_nd: Erkännande-Ickekommersiell-IngaBearbetningar %{version}
+    %{jurisdiction}
+is:
+  license_notice: Þetta verk er gefið út með %{license_title}.
+  license_title: Creative Commons %{license_type} afnotaleyfi
+  license_type_by: Vísun til höfundar %{version} %{jurisdiction}
+  license_type_by_sa: Tilvísun-DeilaEins %{version} %{jurisdiction}
+  license_type_by_nd: Tilvísun-EnginAfleidd %{version} %{jurisdiction}
+  license_type_by_nc: Tilvísun-EkkiÁgóðaskyni %{version} %{jurisdiction}
+  license_type_by_nc_sa: Tilvísun-EkkiÁgóðaskyni-DeilaEins %{version} %{jurisdiction}
+  license_type_by_nc_nd: Tilvísun-EkkiÁgóðaskyni-EnginAfleidd %{version} %{jurisdiction}
+el:
+  license_notice: Αυτό το εργασία χορηγείται με άδεια %{license_title}.
+  license_title: ! 'Creative Commons %{license_type} '
+  license_type_by: Αναφορά Δημιουργού %{version} %{jurisdiction}
+  license_type_by_sa: Αναφορά Δημιουργού - Παρόμοια Διανομή %{version} %{jurisdiction}
+  license_type_by_nd: Αναφορά Δημιουργού-Όχι Παράγωγα Έργα %{version} %{jurisdiction}
+  license_type_by_nc: Αναφορά Δημιουργού-Μη Εμπορική Χρήση %{version} %{jurisdiction}
+  license_type_by_nc_sa: Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή
+    %{version} %{jurisdiction}
+  license_type_by_nc_nd: Αναφορά Δημιουργού-Μη Εμπορική Χρήση-Όχι Παράγωγα Έργα %{version}
+    %{jurisdiction}
+ru:
+  license_notice: Это произведение доступно по %{license_title}.
+  license_title: лицензии Creative Commons %{license_type}
+  license_type_by: «Attribution» («Атрибуция») %{version} %{jurisdiction}
+  license_type_by_sa: «Attribution-ShareAlike» («Атрибуция — На тех же условиях»)
+    %{version} %{jurisdiction}
+  license_type_by_nd: «Attribution-NoDerivs» («Атрибуция — Без производных произведений»)
+    %{version} %{jurisdiction}
+  license_type_by_nc: «Attribution-NonCommercial» («Атрибуция — Некоммерческое использование»)
+    %{version} %{jurisdiction}
+  license_type_by_nc_sa: «Attribution-NonCommercial-ShareAlike» («Атрибуция — Некоммерческое
+    использование — На тех же условиях») %{version} %{jurisdiction}
+  license_type_by_nc_nd: «Attribution-NonCommercial-NoDerivs» («Атрибуция — Некоммерческое
+    использование — Без производных произведений») %{version} %{jurisdiction}
+uk:
+  license_notice: Цей твір ліцензовано за %{license_title}.
+  license_title: ліцензією Creative Commons %{license_type}
+  license_type_by: Із зазначенням авторства %{version} %{jurisdiction}
+  license_type_by_sa: Із зазначенням автора - Розповсюдження на тих самих умовах
+    %{version} %{jurisdiction}
+  license_type_by_nd: Із зазначенням авторства - Без похідних творів %{version} %{jurisdiction}
+  license_type_by_nc: Із зазначенням авторства - Некомерційна %{version} %{jurisdiction}
+  license_type_by_nc_sa: Із зазначенням авторства - Некомерційна - Розповсюдження
+    на тих самих умовах %{version} %{jurisdiction}
+  license_type_by_nc_nd: Із зазначенням авторства - Некомерційна - Без похідних творів
+    %{version} %{jurisdiction}
+zh:
+  license_notice: 本作品采用%{license_title}进行许可。
+  license_title: 知识共享%{license_type}许可协议
+  license_type_by: 署名 %{version} %{jurisdiction}
+  license_type_by_sa: 署名-相同方式共享 %{version} %{jurisdiction}
+  license_type_by_nd: 署名-禁止演绎 %{version} %{jurisdiction}
+  license_type_by_nc: 署名-非商业性使用 %{version} %{jurisdiction}
+  license_type_by_nc_sa: 署名-非商业性使用-相同方式共享 %{version} %{jurisdiction}
+  license_type_by_nc_nd: 署名-非商业性使用-禁止演绎 %{version} %{jurisdiction}
+zh_TW:
+  license_notice: 本著作係採用%{license_title}授權.
+  license_title: 創用 CC %{license_type} 授權條款
+  license_type_by: 姓名標示 %{version} %{jurisdiction}
+  license_type_by_sa: 姓名標示-相同方式分享 %{version} %{jurisdiction}
+  license_type_by_nd: 姓名標示-禁止改作 %{version} %{jurisdiction}
+  license_type_by_nc: 姓名標示-非商業性 %{version} %{jurisdiction}
+  license_type_by_nc_sa: 姓名標示-非商業性-相同方式分享 %{version} %{jurisdiction}
+  license_type_by_nc_nd: 姓名標示-非商業性-禁止改作 %{version} %{jurisdiction}
+ko:
+  license_notice: 이 저작물은 %{license_title}에 따라 이용할 수 있습니다.
+  license_title: 크리에이티브 커먼즈 %{license_type} 라이선스
+  license_type_by: 저작자표시 %{version} %{jurisdiction}
+  license_type_by_sa: 저작자표시-동일조건변경허락 %{version} %{jurisdiction}
+  license_type_by_nd: 저작자표시-변경금지 %{version} %{jurisdiction}
+  license_type_by_nc: 저작자표시-비영리 %{version} %{jurisdiction}
+  license_type_by_nc_sa: 저작자표시-비영리-동일조건변경허락 %{version} %{jurisdiction}
+  license_type_by_nc_nd: 저작자표시-비영리-변경금지 %{version} %{jurisdiction}

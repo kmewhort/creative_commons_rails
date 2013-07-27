@@ -1,0 +1,1501 @@
+---
+es:
+  unported: Internacional
+  de: Alemania
+  ar: Argentina
+  au: Australia
+  at: Austria
+  br: Brasil
+  bg: Bulgaria
+  be: Bélgica
+  ca: Canadá
+  cl: Chile
+  cn: China continental
+  co: Colombia
+  kr: Corea del Sur
+  cr: Costa Rica
+  hr: Croacia
+  dk: Dinamarca
+  ec: Ecuador
+  eg: Egypt
+  scotland: Escocia
+  si: Eslovenia
+  es: España
+  us: Estados Unidos de América
+  ee: Estonia
+  ph: Filipinas
+  fi: Finlandia
+  fr: Francia
+  gr: Grecia
+  gt: Guatemala
+  nl: Holanda
+  hk: Hong Kong
+  hu: Hungría
+  in: India
+  uk: Inglaterra y País de Gales
+  ie: Irlanda
+  il: Israel
+  it: Italia
+  jp: Japón
+  lu: Luxemburgo
+  mk: Macedonia
+  my: Malasia
+  mt: Malta
+  mx: México
+  "no": Noruega
+  nz: Nueva Zelanda
+  pe: Perú
+  pl: Polonia
+  pt: Portugal
+  pr: Puerto Rico
+  cz: República Checa
+  ro: Rumanía
+  rs: Serbia
+  sg: Singapur
+  za: Sudáfrica
+  se: Suecia
+  ch: Suiza
+  th: Tailandia
+  tw: Taiwán
+  ug: Uganda
+  vn: Vietnam
+es_ES:
+  unported: Internacional
+  de: Alemania
+  ar: Argentina
+  au: Australia
+  at: Austria
+  br: Brasil
+  bg: Bulgaria
+  be: Bélgica
+  ca: Canadá
+  cl: Chile
+  cn: China
+  co: Colombia
+  kr: Corea del Sur
+  cr: Costa Rica
+  hr: Croacia
+  dk: Dinamarca
+  ec: Ecuador
+  eg: Egypt
+  scotland: Escocia
+  si: Eslovenia
+  es: España
+  us: Estados Unidos
+  ee: Estonia
+  ph: Filipinas
+  fi: Finlandia
+  fr: Francia
+  gr: Grecia
+  gt: Guatemala
+  nl: Holanda
+  hk: Hong Kong
+  hu: Hungría
+  in: India
+  uk: Inglaterra y País de Gales
+  ie: Irlanda
+  il: Israel
+  it: Italia
+  jp: Japón
+  lu: Luxemburgo
+  mk: Macedonia
+  my: Malasia
+  mt: Malta
+  mx: México
+  "no": Noruega
+  nz: Nueva Zelanda
+  pe: Perú
+  pl: Polonia
+  pt: Portugal
+  pr: Puerto Rico
+  cz: República Checa
+  ro: Rumanía
+  rs: Serbia
+  sg: Singapur
+  se: Suecia
+  ch: Suiza
+  za: Suráfrica
+  th: Tailandia
+  tw: Taiwan
+  ug: Uganda
+  vn: Vietnam
+ca:
+  unported: Internacional
+  de: Alemanya
+  uk: Anglaterra i País de Gales
+  ar: Argentina
+  au: Austràlia
+  br: Brasil
+  bg: Bulgària
+  be: Bèlgica
+  ca: Canadà
+  co: Colòmbia
+  kr: Corea del Sud
+  cr: Costa Rica
+  hr: Croàcia
+  dk: Dinamarca
+  eg: Egypt
+  ec: Equador
+  scotland: Escòcia
+  si: Eslovènia
+  es: Espanya
+  us: Estats Units d'Amèrica
+  ee: Estònia
+  ph: Filipines
+  fi: Finlàndia
+  fr: França
+  gr: Grècia
+  gt: Guatemala
+  nl: Holanda
+  hk: Hong Kong
+  hu: Hongria
+  ie: Irlanda
+  il: Israel
+  it: Itàlia
+  jp: Japó
+  lu: Luxemburg
+  mk: Macedònia
+  mt: Malta
+  my: Malàisia
+  mx: Mèxic
+  "no": Noruega
+  nz: Nova Zelanda
+  pe: Perú
+  pl: Polònia
+  pt: Portugal
+  pr: Puerto Rico
+  cz: República Txeca
+  ro: Romania
+  sg: Singapur
+  za: Sudàfrica
+  se: Suècia
+  ch: Suïssa
+  rs: Sèrbia
+  th: Tailàndia
+  tw: Taiwan
+  ug: Uganda
+  vn: Vietnam
+  cl: Xile
+  cn: Xina
+  at: Àustria
+  in: Índia
+de:
+  unported: International
+  ar: Argentinien
+  au: Australien
+  be: Belgien
+  br: Brasilien
+  bg: Bulgarien
+  cl: Chile
+  cr: Costa Rica
+  de: Deutschland
+  dk: Dänemark
+  ec: Ecuador
+  ee: Estland
+  fi: Finnland
+  fr: Frankreich
+  gr: Griechenland
+  gt: Guatemala
+  hk: Hong Kong
+  in: Indien
+  ie: Irland
+  il: Israel
+  it: Italien
+  jp: Japan
+  ca: Kanada
+  co: Kolumbien
+  hr: Kroatien
+  lu: Luxemburg
+  my: Malaysia
+  mt: Malta
+  mk: Mazedonien
+  mx: Mexiko
+  nz: Neuseeland
+  nl: Niederlande
+  "no": Norwegen
+  pe: Peru
+  ph: Philippinen
+  pl: Polen
+  pt: Portugal
+  pr: Puerto Rico
+  ro: Rumänien
+  scotland: Schottland
+  se: Schweden
+  ch: Schweiz
+  rs: Serbien
+  sg: Singapur
+  si: Slowenien
+  es: Spanien
+  kr: Süd-Korea
+  za: Südafrika
+  tw: Taiwan
+  th: Thailand
+  cz: Tschechische Republik
+  uk: ! 'UK: England & Wales'
+  ug: Uganda
+  hu: Ungarn
+  us: Vereinigte Staaten von Amerika
+  vn: Vietnam
+  cn: Volksrepublik China
+  eg: Ägypten
+  at: Österreich
+en:
+  unported: Unported
+  ar: Argentina
+  au: Australia
+  at: Austria
+  be: Belgium
+  br: Brazil
+  bg: Bulgaria
+  ca: Canada
+  cl: Chile
+  cn: China Mainland
+  co: Colombia
+  cr: Costa Rica
+  hr: Croatia
+  cz: Czech Republic
+  dk: Denmark
+  ec: Ecuador
+  eg: Egypt
+  ee: Estonia
+  fi: Finland
+  fr: France
+  de: Germany
+  gr: Greece
+  gt: Guatemala
+  hk: Hong Kong
+  hu: Hungary
+  in: India
+  ie: Ireland
+  il: Israel
+  it: Italy
+  jp: Japan
+  lu: Luxembourg
+  mk: Macedonia
+  my: Malaysia
+  mt: Malta
+  mx: Mexico
+  nl: Netherlands
+  nz: New Zealand
+  "no": Norway
+  pe: Peru
+  ph: Philippines
+  pl: Poland
+  pt: Portugal
+  pr: Puerto Rico
+  ro: Romania
+  rs: Serbia
+  sg: Singapore
+  si: Slovenia
+  za: South Africa
+  kr: South Korea
+  es: Spain
+  se: Sweden
+  ch: Switzerland
+  tw: Taiwan
+  th: Thailand
+  uk: ! 'UK: England & Wales'
+  scotland: ! 'UK: Scotland'
+  ug: Uganda
+  us: United States
+  vn: Vietnam
+eo:
+  unported: Internacia
+  ar: Argentino
+  au: Aŭstralio
+  at: Aŭstrujo
+  in: Barato
+  be: Belgujo
+  br: Brazilo
+  uk: ! 'Britujo: Anglujo & Kimrujo'
+  scotland: ! 'Britujo: Skotujo'
+  bg: Bulgarujo
+  dk: Danujo
+  eg: Egiptujo
+  ec: Ekvadoro
+  ee: Estonujo
+  ph: Filipinoj
+  fr: Francujo
+  de: Germanujo
+  gr: Grekujo
+  gt: Gvatemalo
+  es: Hispanujo
+  hk: Honkongo
+  hu: Hungarujo
+  ie: Irlando
+  il: Israelo
+  it: Italujo
+  jp: Japanujo
+  ca: Kanado
+  co: Kolombio
+  cr: Kostariko
+  hr: Kroatujo
+  lu: Luksemburgo
+  mk: Makedonujo
+  my: Malajzio
+  mt: Malto
+  mx: Meksiko
+  nl: Nederlando
+  "no": Norvegujo
+  nz: Nov-Zelando
+  pe: Peruo
+  pl: Polujo
+  pt: Portugalujo
+  pr: Puertoriko
+  ro: Rumanujo
+  rs: Serbujo
+  sg: Singapuro
+  si: Slovenujo
+  za: Sud-Afriko
+  kr: Sud-Koreujo
+  fi: Suomujo
+  se: Svedujo
+  ch: Svisujo
+  th: Tajujo
+  tw: Tajvano
+  ug: Ugando
+  us: Usono
+  vn: Vjetnamujo
+  cz: Ĉeĥujo
+  cl: Ĉilio
+  cn: Ĉinujo
+fr:
+  unported: non transposé
+  za: Afrique du Sud
+  de: Allemagne
+  ar: Argentine
+  au: Australie
+  at: Autriche
+  be: Belgique
+  br: Brésil
+  bg: Bulgarie
+  ca: Canada
+  cl: Chili
+  cn: Chine continentale
+  co: Colombie
+  kr: Corée du Sud
+  cr: Costa Rica
+  hr: Croatie
+  dk: Danemark
+  eg: Egypt
+  es: Espagne
+  ee: Estonie
+  fi: Finlande
+  fr: France
+  gr: Grèce
+  gt: Guatemala
+  hk: Hong Kong
+  hu: Hongrie
+  in: Inde
+  ie: Irlande
+  il: Israël
+  it: Italie
+  jp: Japon
+  lu: Luxembourg
+  mk: Macédoine
+  my: Malaisie
+  mt: Malte
+  mx: Mexique
+  "no": Norvège
+  nz: Nouvelle-Zélande
+  nl: Pays-Bas
+  ph: Philippines
+  pl: Pologne
+  pr: Porto Rico
+  pt: Portugal
+  pe: Pérou
+  ro: Roumanie
+  uk: ! 'Royaume-Uni : Angleterre & Pays de Galles'
+  scotland: ! 'Royaume-Uni : Ecosse'
+  cz: République Tchèque
+  rs: Serbie
+  sg: Singapour
+  si: Slovénie
+  ch: Suisse
+  se: Suède
+  tw: Taiwan
+  th: Thailande
+  ug: Uganda
+  vn: Viêt Nam
+  ec: Équateur
+  us: États-Unis
+hr:
+  unported: međunarodni sporazumi
+  ar: Argentina
+  au: Australija
+  at: Austrija
+  be: Belgija
+  br: Brazil
+  bg: Bugarska
+  cr: Costa Rica
+  dk: Danska
+  eg: Egypt
+  ec: Ekvador
+  ee: Estonija
+  ph: Filipini
+  fi: Finska
+  fr: Francuska
+  gr: Grčka
+  gt: Guatemala
+  hk: Hong Kong
+  hr: Hrvatska
+  in: Indija
+  ie: Irska
+  it: Italija
+  il: Izrael
+  jp: Japan
+  za: Južna Afrika
+  kr: Južna Koreja
+  ca: Kanada
+  cn: Kina
+  co: Kolumbija
+  lu: Luksemburg
+  mk: Makedonija
+  my: Malezija
+  mt: Malta
+  hu: Mađarska
+  mx: Meksiko
+  nl: Nizozemska
+  de: Njemačka
+  "no": Norveška
+  nz: Novi Zeland
+  pe: Peru
+  pl: Poljska
+  pt: Portugal
+  pr: Puerto Rico
+  ro: Rumunjska
+  us: SAD
+  sg: Singapur
+  si: Slovenija
+  rs: Srbija
+  th: Tajland
+  tw: Tajvan
+  ug: Uganda
+  uk: ! 'VB: Engleska i Wales'
+  scotland: ! 'VB: Škotska'
+  vn: Vijetnam
+  cz: Češka
+  cl: Čile
+  es: Španjolska
+  se: Švedska
+  ch: Švicarska
+id:
+  unported: Internasional
+  za: Afrika Selatan
+  us: Amerika Serikat
+  ar: Argentina
+  au: Australia
+  at: Austria
+  nl: Belanda
+  be: Belgia
+  br: Brasil
+  uk: ! 'Britania Raya: Inggris & Wales'
+  scotland: ! 'Britania Raya: Skotlandia'
+  bg: Bulgaria
+  cl: Chili
+  cn: Cina Daratan
+  dk: Denmark
+  eg: Egypt
+  ec: Ekuador
+  ee: Estonia
+  ph: Filipina
+  fi: Finlandia
+  gt: Guatemala
+  hk: Hong Kong
+  hu: Hongaria
+  in: India
+  ie: Irlandia
+  il: Israel
+  it: Italia
+  jp: Jepang
+  de: Jerman
+  ca: Kanada
+  co: Kolombia
+  kr: Korea Selatan
+  cr: Kosta Rika
+  hr: Kroasia
+  lu: Luksemburg
+  mk: Makedonia
+  my: Malaysia
+  mt: Malta
+  mx: Meksiko
+  "no": Norwegia
+  fr: Perancis
+  pe: Peru
+  pl: Polandia
+  pt: Portugal
+  pr: Puerto Riko
+  cz: Republik Ceko
+  ro: Rumania
+  nz: Selandia Baru
+  rs: Serbia
+  sg: Singapura
+  si: Slovenia
+  es: Spanyol
+  se: Swedia
+  ch: Swiss
+  tw: Taiwan
+  th: Thailand
+  ug: Uganda
+  vn: Vietnam
+  gr: Yunani
+it:
+  unported: Internazionale
+  ar: Argentina
+  au: Australia
+  at: Austria
+  be: Belgio
+  br: Brasile
+  bg: Bulgaria
+  ca: Canada
+  cl: Cile
+  cn: Cina
+  co: Colombia
+  cr: Costa Rica
+  hr: Croazia
+  cz: Czech Republic
+  dk: Denmark
+  ec: Ecuador
+  eg: Egypt
+  ee: Estonia
+  ph: Filippine
+  fi: Finlandia
+  fr: Francia
+  de: Germania
+  jp: Giappone
+  gr: Grecia
+  gt: Guatemala
+  hk: Hong Kong
+  in: India
+  uk: Inghilterra & Galles
+  ie: Irlanda
+  il: Israele
+  it: Italia
+  kr: Korea Del Sud
+  lu: Lussemburgo
+  mk: Macedonia
+  my: Malesia
+  mt: Malta
+  mx: Messico
+  "no": Norway
+  nz: Nuova Zelanda
+  nl: Olanda
+  pe: Perù
+  pl: Polonia
+  pt: Portogallo
+  pr: Puerto Rico
+  ro: Romania
+  rs: Serbia
+  sg: Singapore
+  si: Slovenia
+  es: Spagna
+  us: Stati Uniti
+  za: Sud Africa
+  se: Sweden
+  ch: Switzerland
+  tw: Taiwan
+  th: Thailandia
+  scotland: ! 'UK: Scotland'
+  ug: Uganda
+  hu: Ungheria
+  vn: Vietnam
+hu:
+  unported: Nemzetközi
+  ar: Argentína
+  at: Ausztria
+  au: Ausztrália
+  be: Belgium
+  br: Brazília
+  bg: Bulgária
+  cl: Chile
+  cr: Costa Rica
+  cz: Cseh Köztársaság
+  dk: Dánia
+  za: Dél-Afrika
+  kr: Dél-Korea
+  ec: Ecuador
+  us: Egyesült Államok
+  eg: Egypt
+  fi: Finnország
+  fr: Franciaország
+  ph: Fülöp-szigetek
+  gt: Guatemala
+  gr: Görögország
+  nl: Hollandia
+  hk: Hong Kong
+  hr: Horvátország
+  in: India
+  il: Izrael
+  jp: Japán
+  ca: Kanada
+  co: Kolumbia
+  cn: Kína
+  pl: Lengyelország
+  lu: Luxemburg
+  mk: Macedonia
+  hu: Magyarország
+  my: Malajzia
+  mt: Malta
+  mx: Mexikó
+  "no": Norvégia
+  de: Németország
+  it: Olaszország
+  pe: Peru
+  pt: Portugália
+  pr: Puerto Rico
+  ro: Románia
+  es: Spanyolország
+  ch: Svájc
+  se: Svédország
+  rs: Szerbia
+  sg: Szingapúr
+  si: Szlovénia
+  tw: Tajvan
+  th: Thaiföld
+  uk: ! 'UK: Anglia és Wales'
+  scotland: ! 'UK: Skócia'
+  ug: Uganda
+  vn: Vietnám
+  ee: Észtország
+  ie: Írország
+  nz: Új-Zéland
+nl:
+  unported: Internationaal
+  ar: Argentinië
+  au: Australië
+  be: België
+  br: Brazilië
+  bg: Bulgarije
+  ca: Canada
+  cl: Chili
+  cn: China (vasteland)
+  co: Colombia
+  cr: Costa Rica
+  dk: Denemarken
+  de: Duitsland
+  ec: Ecuador
+  eg: Egypte
+  uk: Engeland & Wales
+  ee: Estland
+  ph: Filipijnen
+  fi: Finland
+  fr: Frankrijk
+  gr: Griekenland
+  gt: Guatemala
+  hk: Hong Kong
+  hu: Hongarije
+  ie: Ierland
+  in: India
+  il: Israël
+  it: Italië
+  jp: Japan
+  hr: Kroatië
+  lu: Luxemburg
+  mk: Macedonië
+  my: Maleisië
+  mt: Malta
+  mx: Mexico
+  nl: Nederland
+  nz: Nieuw Zeeland
+  "no": Norwegen
+  at: Oostenrijk
+  pe: Peru
+  pl: Polen
+  pt: Portugal
+  pr: Puerto Rico
+  ro: Roemenië
+  scotland: Schotland
+  rs: Servië
+  sg: Singapore
+  si: Slovenië
+  es: Spanje
+  tw: Taiwan
+  th: Thailand
+  cz: Tjechië
+  ug: Uganda
+  us: Verenigde Staten
+  vn: Vietnam
+  kr: Zuid Korea
+  za: Zuid-Afrika
+  se: Zweden
+  ch: Zwitserland
+"no":
+  unported: Internasjonal
+  ar: Argentina
+  au: Australia
+  be: Belgia
+  br: Brasil
+  bg: Bulgaria
+  ca: Canada
+  cl: Chile
+  co: Colombia
+  cr: Costa Rica
+  dk: Danmark
+  ec: Ecuador
+  eg: Egypt
+  ee: Estland
+  ph: Filippinene
+  fi: Finland
+  fr: Frankrike
+  gt: Guatemala
+  gr: Hellas
+  hk: Hong Kong
+  in: India
+  ie: Irland
+  il: Israel
+  it: Italia
+  jp: Japan
+  cn: Kina
+  hr: Kroatia
+  lu: Luxembourg
+  mk: Makedonia
+  my: Malaysia
+  mt: Malta
+  mx: Mexiko
+  nl: Nederland
+  nz: New Zealand
+  "no": Norge
+  pe: Peru
+  pl: Polen
+  pt: Portugal
+  pr: Puerto Rico
+  ro: Romania
+  rs: Serbia
+  sg: Singapore
+  si: Slovenia
+  es: Spania
+  ch: Sveits
+  se: Sverige
+  kr: Sør-Korea
+  za: Sør-afrika
+  tw: Taiwan
+  th: Thailand
+  cz: Tjekkia
+  de: Tyskland
+  uk: ! 'UK: England & Wales'
+  scotland: ! 'UK: Skottland'
+  us: USA
+  ug: Uganda
+  hu: Ungarn
+  vn: Vietnam
+  at: Østerrike
+pl:
+  unported: Międzynarodowe
+  ar: Argentyna
+  au: Australia
+  at: Austria
+  be: Belgia
+  br: Brazylia
+  bg: Bułgaria
+  cl: Chile
+  cn: Chiny
+  hr: Chorwacja
+  cz: Czechy
+  dk: Dania
+  eg: Egypt
+  ec: Ekwador
+  ee: Estonia
+  ph: Filipiny
+  fi: Finlandia
+  fr: Francja
+  gr: Grecja
+  gt: Gwatemala
+  es: Hiszpania
+  nl: Holandia
+  hk: Hong Kong
+  in: Indie
+  ie: Irlandia
+  il: Izrael
+  jp: Japonia
+  ca: Kanada
+  co: Kolumbia
+  kr: Korea Południowa
+  cr: Kostaryka
+  lu: Luksemburg
+  mk: Macedonia
+  my: Malezja
+  mt: Malta
+  mx: Meksyk
+  de: Niemcy
+  "no": Norwegia
+  nz: Nowa Zelandia
+  pe: Peru
+  pl: Polska
+  pr: Portoryko
+  pt: Portugalia
+  za: Południowa Afryka
+  ro: Rumunia
+  rs: Serbia
+  sg: Singapur
+  us: Stany Zjednoczone
+  ch: Szwajcaria
+  se: Szwecja
+  si: Słowenia
+  th: Tajlandia
+  tw: Tajwan
+  uk: ! 'UK: Anglia i Walia'
+  scotland: ! 'UK: Szkocja'
+  ug: Uganda
+  hu: Węgry
+  it: Włochy
+  vn: wietnamski
+pt:
+  unported: Internacional
+  de: Alemanha
+  ar: Argentina
+  au: Austrália
+  br: Brasil
+  bg: Bulgária
+  be: Bélgica
+  ca: Canadá
+  cl: Chile
+  cn: China Continental
+  co: Colômbia
+  kr: Coreia do Sul
+  cr: Costa Rica
+  hr: Croácia
+  dk: Dinamarca
+  eg: Egypt
+  ec: Equador
+  si: Eslovénia
+  es: Espanha
+  us: Estados Unidos
+  ee: Estónia
+  ph: Filipinas
+  fi: Finlândia
+  fr: França
+  gr: Grécia
+  gt: Guatemala
+  nl: Holanda
+  hk: Hong Kong
+  hu: Hungria
+  ie: Irlanda
+  il: Israel
+  it: Itália
+  jp: Japão
+  lu: Luxemburgo
+  mk: Macedónia
+  mt: Malta
+  my: Malásia
+  mx: México
+  "no": Noruega
+  nz: Nova Zelândia
+  pe: Peru
+  pl: Polónia
+  pr: Porto Rico
+  pt: Portugal
+  scotland: ! 'Reino Unido: Escócia'
+  uk: ! 'Reino Unido: Inglaterra e País de Gales'
+  cz: República Checa
+  ro: Roménia
+  sg: Singapura
+  se: Suécia
+  ch: Suíça
+  rs: Sérvia
+  th: Tailândia
+  tw: Taiwan
+  ug: Uganda
+  vn: Vietname
+  za: África do Sul
+  at: Áustria
+  in: Índia
+pt_BR:
+  unported: Internacional
+  de: Alemanha
+  ar: Argentina
+  at: Austria
+  au: Austrália
+  br: Brasil
+  bg: Bulgária
+  be: Bélgica
+  ca: Canadá
+  cl: Chile
+  cn: China Continental
+  co: Colômbia
+  kr: Coreia do Sul
+  cr: Costa Rica
+  hr: Croácia
+  dk: Dinamarca
+  ec: Ecuador
+  eg: Egypt
+  si: Eslovênia
+  es: Espanha
+  us: Estados Unidos
+  ee: Estônia
+  ph: Filipinas
+  fi: Finlandia
+  fr: França
+  gr: Grécia
+  gt: Guatemala
+  hk: Hong Kong
+  hu: Hungria
+  ie: Irlanda
+  il: Israel
+  it: Itália
+  jp: Japão
+  lu: Luxemburgo
+  mk: Macedônia
+  mt: Malta
+  my: Malásia
+  mx: México
+  "no": Noruega
+  nz: Nova Zelândia
+  nl: Países Baixos
+  pe: Peru
+  pl: Polônia
+  pr: Porto Rico
+  pt: Portugal
+  scotland: ! 'Reino Unido: Escócia'
+  uk: ! 'Reino Unido: Inglaterra e País de Gales'
+  cz: República Tcheca
+  ro: Romênia
+  sg: Singapura
+  se: Suécia
+  ch: Suíça
+  rs: Sérvia
+  th: Tailândia
+  tw: Taiwan
+  ug: Uganda
+  vn: Vietnã
+  za: África do Sul
+  in: Índia
+fi:
+  unported: Kansainvälinen
+  ar: Argentiina
+  au: Australia
+  be: Belgia
+  br: Brasilia
+  bg: Bulgaria
+  cl: Chile
+  cr: Costa Rica
+  ec: Ecuador
+  eg: Egypt
+  uk: Englanti ja Wales
+  es: Espanja
+  za: Etelä-Afrikka
+  kr: Etelä-Korea
+  ph: Filippiinit
+  gt: Guatemala
+  nl: Hollanti
+  hk: Hong Kong
+  in: Intia
+  ie: Irlanti
+  scotland: ! 'Iso-Britannia: Scotland'
+  il: Israel
+  it: Italia
+  at: Itävalta
+  jp: Japani
+  ca: Kanada
+  cn: Kiina
+  co: Kolumbia
+  gr: Kreikka
+  hr: Kroatia
+  lu: Luxemburg
+  mk: Makedonia
+  my: Malesia
+  mt: Malta
+  mx: Meksiko
+  "no": Norja
+  pe: Peru
+  pt: Portugali
+  pr: Puerto Rico
+  pl: Puola
+  fr: Ranska
+  ro: Romania
+  se: Ruotsi
+  de: Saksa
+  rs: Serbia
+  sg: Singapore
+  si: Slovenia
+  fi: Suomi
+  ch: Sveitsi
+  tw: Taiwan
+  dk: Tanska
+  th: Thaimaa
+  cz: Tsekki
+  ug: Uganda
+  hu: Unkari
+  nz: Uusi-Seelanti
+  vn: Vietnam
+  ee: Viro
+  us: Yhdysvallat
+sv:
+  unported: Internationell
+  ar: Argentina
+  au: Australien
+  be: Belgien
+  br: Brasilien
+  bg: Bulgarien
+  cl: Chile
+  co: Columbia
+  cr: Costa Rica
+  dk: Danmark
+  ec: Ecuador
+  eg: Egypt
+  ee: Estland
+  ph: Filippinerna
+  fi: Finland
+  fr: Frankrike
+  us: Förenta Staterna
+  gr: Grekland
+  gt: Guatemala
+  hk: Hong Kong
+  in: Indien
+  ie: Irland
+  il: Israel
+  it: Italien
+  jp: Japan
+  ca: Kanada
+  cn: Kina
+  hr: Kroatien
+  lu: Luxemburg
+  mk: Makedonien
+  my: Malaysia
+  mt: Malta
+  mx: Mexiko
+  nl: Nederländerna
+  "no": Norge
+  nz: Nya Zeeland
+  pe: Peru
+  pl: Polen
+  pt: Portugal
+  pr: Puerto Rico
+  ro: Rumänien
+  ch: Schweiz
+  rs: Serbien
+  sg: Singapore
+  si: Slovenien
+  es: Spanien
+  se: Sverige
+  za: Sydafrika
+  kr: Sydkorea
+  tw: Taiwan
+  th: Thailand
+  cz: Tjeckien
+  de: Tyskland
+  uk: ! 'UK: England & Wales'
+  scotland: ! 'UK: Skottland'
+  ug: Uganda
+  hu: Ungern
+  vn: Vietnam
+  at: Österrike
+is:
+  unported: Alþjóðlegt
+  ar: Argentína
+  at: Austurríki
+  us: Bandaríkin
+  be: Belgía
+  br: Brasilía
+  scotland: ! 'Bretland: Skotland'
+  bg: Búlgaría
+  cl: Chíle
+  dk: Danmörk
+  eg: Egyptaland
+  ec: Ekvador
+  ph: Filippseyjar
+  fi: Finnland
+  fr: Frakkland
+  gr: Grikkland
+  gt: Gvatemala
+  nl: Holland
+  hk: Hong Kong
+  in: Indland
+  jp: Japan
+  ca: Kanada
+  cr: Kosta Ríka
+  hr: Króatía
+  co: Kólumbía
+  lu: Lúxemborg
+  mk: Makedónía
+  my: Malasía
+  mt: Malta
+  cn: Meginland Kína
+  mx: Mexíkó
+  "no": Noregur
+  nz: Nýja-Sjáland
+  pe: Perú
+  pt: Portúgal
+  pl: Pólland
+  pr: Púrtó Ríkó
+  ro: Rúmenía
+  rs: Serbía
+  sg: Singapúr
+  si: Slóvenía
+  es: Spánn
+  za: Suður-Afríka
+  kr: Suður-Kórea
+  ch: Sviss
+  se: Svíþjóð
+  th: Tæland
+  tw: Tævan
+  cz: Tékkland
+  uk: ! 'UK: England og Wales'
+  hu: Ungverjaland
+  vn: Víetnam
+  ee: eistneska
+  au: Ástralía
+  ie: Írland
+  il: Ísrael
+  it: Ítalía
+  ug: Úganda
+  de: Þýskaland
+el:
+  unported: Διεθνές
+  eg: Egypt
+  ug: Uganda
+  ar: Αργεντινή
+  at: Αυστρία
+  au: Αυστραλία
+  be: Βέλγιο
+  vn: Βιετνάμ
+  bg: Βουλγαρία
+  br: Βραζιλία
+  fr: Γαλλία
+  de: Γερμανία
+  gt: Γουατεμάλα
+  dk: Δανία
+  cz: Δημοκρατία της Τσεχίας
+  ec: Εκουαδόρ
+  ch: Ελβετία
+  gr: Ελλάδα
+  ee: Εσθονία
+  us: Ηνωμένες Πολιτείες
+  uk: ! 'Ηνωμένο Βασίλειο: Αγγλία & Ουαλία'
+  scotland: ! 'Ηνωμένο Βασίλειο: Σκωτία'
+  jp: Ιαπωνία
+  in: Ινδία
+  ie: Ιρλανδία
+  es: Ισπανία
+  il: Ισραήλ
+  it: Ιταλία
+  cn: Κίνα
+  ca: Καναδάς
+  co: Κολομβία
+  hr: Κροατία
+  cr: Κόστα Ρίκα
+  lu: Λουξεμβούργο
+  mt: Μάλτα
+  my: Μαλαισία
+  mx: Μεξικό
+  nz: Νέα Ζηλανδία
+  "no": Νορβηγία
+  za: Νότια Αφρική
+  kr: Νότια Κορέα
+  nl: Ολλανδία
+  hu: Ουγγαρία
+  pe: Περού
+  pl: Πολωνία
+  pt: Πορτογαλία
+  pr: Πουέρτο Ρίκο
+  mk: Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας
+  ro: Ρουμανία
+  rs: Σερβία
+  sg: Σιγκαπούρη
+  si: Σλοβενία
+  se: Σουηδία
+  tw: Ταϊβάν
+  th: Ταϋλάνδη
+  fi: Φιλανδία
+  ph: Φιλιππίνες
+  cl: Χιλή
+  hk: Χονγκ Κονγκ
+ru:
+  unported: Весь мир (в т.ч. Россия и др.)
+  au: Австралия
+  at: Австрия
+  ar: Аргентина
+  be: Бельгия
+  bg: Болгария
+  br: Бразилия
+  uk: ! 'Великобритания: Англия и Уэльс'
+  scotland: ! 'Великобритания: Шотландия'
+  hu: Венгрия
+  vn: Вьетнам
+  gt: Гватемала
+  de: Германия
+  hk: Гонконг
+  gr: Греция
+  dk: Дания
+  eg: Египет
+  il: Израиль
+  in: Индия
+  ie: Ирландия
+  es: Испания
+  it: Италия
+  ca: Канада
+  co: Колумбия
+  cn: Континентальный Китай (КНР)
+  cr: Коста-Рика
+  lu: Люксембург
+  mk: Македония
+  my: Малайзия
+  mt: Мальта
+  mx: Мексика
+  nl: Нидерланды
+  nz: Новая Зеландия
+  "no": Норвегия
+  pe: Перу
+  pl: Польша
+  pt: Португалия
+  pr: Пуэрто-Рико
+  ro: Румыния
+  us: США
+  rs: Сербия
+  sg: Сингапур
+  si: Словения
+  th: Таиланд
+  tw: Тайвань
+  ug: Уганда
+  ph: Филиппины
+  fi: Финляндия
+  fr: Франция
+  hr: Хорватия
+  cz: Чехия
+  cl: Чили
+  ch: Швейцария
+  se: Швеция
+  ec: Эквадор
+  ee: Эстония
+  za: ЮАР
+  kr: Южная Корея
+  jp: Япония
+uk:
+  unported: Міжнародна
+  eg: Egypt
+  ug: Uganda
+  il: Ізраїль
+  in: Індія
+  ie: Ірландія
+  es: Іспанія
+  it: Італія
+  au: Австралія
+  at: Австрія
+  ar: Аргентина
+  be: Бельгія
+  bg: Болгарія
+  br: Бразилія
+  vn: В'єтнам
+  uk: ! 'Великобританія: Англія та Уельс'
+  scotland: ! 'Великобританія: Шотландія'
+  gt: Гватемала
+  hk: Гонконг
+  gr: Греція
+  dk: Данія
+  ec: Еквадор
+  ee: Естонія
+  ca: Канада
+  co: Колумбія
+  cn: Континентальний Китай
+  cr: Коста-Ріка
+  lu: Люксембург
+  mk: Македонія
+  my: Малайзія
+  mt: Мальта
+  mx: Мексика
+  nz: Нова Зеландія
+  "no": Норвегія
+  nl: Нідерланди
+  de: Німеччина
+  pe: Перу
+  pl: Польща
+  pt: Португвлія
+  pr: Пуерто-Ріко
+  za: Південна Африка
+  kr: Південна Корея
+  ro: Румунія
+  rs: Сербія
+  si: Словенія
+  us: Сполучені Штати
+  sg: Сінгапур
+  tw: Тайвань
+  th: Тайланд
+  hu: Угорщина
+  fr: Франція
+  ph: Філіппіни
+  fi: Фінляндія
+  hr: Хорватія
+  cz: Чеська республіка
+  cl: Чилі
+  ch: Швейцарія
+  se: Швеція
+  jp: Японія
+zh:
+  unported: 国际
+  eg: Egypt
+  ug: Uganda
+  cn: 中国大陆
+  dk: 丹麦
+  il: 以色列
+  bg: 保加利亚
+  hr: 克罗地亚
+  ca: 加拿大
+  hu: 匈牙利
+  za: 南非
+  lu: 卢森堡
+  in: 印度
+  gt: 危地马拉
+  ec: 厄瓜多尔
+  tw: 台湾
+  co: 哥伦比亚
+  cr: 哥斯达黎加
+  rs: 塞尔维亚
+  mx: 墨西哥
+  at: 奥地利
+  br: 巴西
+  gr: 希腊
+  de: 德国
+  it: 意大利
+  "no": 挪威
+  cz: 捷克共和国
+  si: 斯洛文尼亚
+  sg: 新加坡
+  nz: 新西兰
+  jp: 日本
+  cl: 智利
+  be: 比利时
+  fr: 法国
+  pl: 波兰
+  pr: 波多黎各
+  th: 泰国
+  au: 澳大利亚
+  ie: 爱尔兰
+  ee: 爱沙尼亚
+  se: 瑞典
+  ch: 瑞士
+  pe: 秘鲁
+  ro: 罗马尼亚
+  us: 美国
+  fi: 芬兰
+  scotland: 英国：苏格兰
+  uk: 英国：英格兰和威尔士
+  nl: 荷兰
+  ph: 菲律宾
+  pt: 葡萄牙
+  es: 西班牙
+  vn: 越南
+  ar: 阿根廷
+  kr: 韩国
+  hk: 香港
+  mk: 马其顿
+  my: 马来西亚
+  mt: 马耳他
+zh_TW:
+  unported: 國際
+  eg: Egypt
+  ug: Uganda
+  cn: 中國大陸
+  dk: 丹麥
+  il: 以色列
+  bg: 保加利亞
+  hr: 克羅埃西亞
+  ca: 加拿大
+  hu: 匈牙利
+  za: 南非
+  kr: 南韓
+  in: 印度
+  ec: 厄瓜多爾
+  tw: 台灣
+  co: 哥倫比亞
+  cr: 哥斯大黎加
+  rs: 塞爾維亞
+  mx: 墨西哥
+  at: 奧地利
+  br: 巴西
+  gr: 希臘
+  de: 德國
+  ee: 愛沙尼亞
+  ie: 愛爾蘭
+  "no": 挪威
+  cz: 捷克
+  si: 斯洛維尼亞
+  sg: 新加坡
+  jp: 日本
+  cl: 智利
+  be: 比利時
+  fr: 法國
+  pr: 波多黎各
+  pl: 波蘭
+  th: 泰國
+  au: 澳大利亞
+  se: 瑞典
+  ch: 瑞士
+  gt: 瓜地馬拉
+  lu: 盧森堡
+  pe: 秘魯
+  nz: 紐西蘭
+  ro: 羅馬尼亞
+  us: 美國
+  it: 義大利
+  fi: 芬蘭
+  uk: ! '英國: 英格蘭及威爾斯'
+  scotland: ! '英國: 蘇格蘭'
+  nl: 荷蘭
+  ph: 菲律賓
+  pt: 葡萄牙
+  es: 西班牙
+  vn: 越南
+  ar: 阿根廷
+  hk: 香港
+  my: 馬來西亞
+  mk: 馬其頓
+  mt: 馬爾他
+ko:
+  unported: 국제
+  eg: Egypt
+  ug: Uganda
+  gt: 과테말라
+  gr: 그리스
+  za: 남아프리카 공화국
+  nl: 네덜란드
+  "no": 노르웨이
+  nz: 뉴질랜드
+  tw: 대만
+  kr: 대한민국
+  dk: 덴마크
+  de: 독일
+  ro: 루마니아
+  lu: 룩셈부르크
+  mk: 마케도니아
+  my: 말레이시아
+  mx: 멕시코
+  mt: 몰타
+  us: 미국
+  vn: 베트남
+  be: 벨기에
+  bg: 불가리아
+  br: 브라질
+  rs: 세르비아
+  se: 스웨덴
+  ch: 스위스
+  es: 스페인
+  si: 슬로베니아
+  sg: 싱가포르
+  ar: 아르헨티나
+  ie: 아일랜드
+  ee: 에스토니아
+  ec: 에콰도르
+  scotland: ! '영국: 스코틀랜드'
+  uk: ! '영국: 잉글랜드, 웨일즈'
+  at: 오스트리아
+  il: 이스라엘
+  it: 이탈리아
+  in: 인도
+  jp: 일본
+  cn: 중국 본토
+  cz: 체코
+  cl: 칠레
+  ca: 캐나다
+  cr: 코스타리카
+  co: 콜럼비아
+  hr: 크로아티아
+  th: 태국
+  pe: 페루
+  pt: 포르투갈
+  pl: 폴란드
+  pr: 푸에르토리코
+  fr: 프랑스
+  fi: 핀란드
+  ph: 필리핀
+  hu: 헝가리
+  au: 호주
+  hk: 홍콩
