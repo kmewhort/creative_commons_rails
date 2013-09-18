@@ -16,6 +16,18 @@ module CreativeCommonsRails
       LicenseInfo.new(attributes[:type],attributes[:jurisdiction],attributes[:version])
     end
 
+    def self.available_jurisdictions
+      license_index.keys
+    end
+
+    def self.available_types(jurisdiction)
+      license_index[jurisdiction.to_s].keys
+    end
+
+    def self.available_versions(jurisdiction, type)
+      license_index[jurisdiction].select{|k,v| v[type]}.keys
+    end
+
     def initialize(type, jurisdiction, version)
       @type, @jurisdiction, @version = type, jurisdiction, version
     end
